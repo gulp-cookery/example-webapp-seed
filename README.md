@@ -2,6 +2,15 @@
 
 Gulp-chef example seed project for web app.
 
+## How to Run
+
+``` bash
+$ git clone https://github.com/gulp-cookery/example-webapp-seed.git
+$ cd example-webapp-seed
+$ npm install
+$ gulp
+```
+
 ## Template Markup
 
 [HTML5 Bones](http://www.html5bones.com/).
@@ -40,3 +49,9 @@ Watch and run `assets`, `images`, `markups`, `scripts` and `styles` tasks.
 
 ### default
 Run `build` task.
+
+## License
+MIT
+
+## Author
+[Amobiz](https://github.com/amobiz)
